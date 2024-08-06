@@ -9,7 +9,7 @@
      - with others who are passionate about learning and growing in the tech space.
        
 - 📫 How to reach me:
-    - Email: You can reach me via email at hashalshamii@gmail.com
+    - Email: You can reach me via email at hashemalshami.eng@gmail.com
 - 🌍 Pronouns: ...
 - ⚡ Fun fact: ...
 
