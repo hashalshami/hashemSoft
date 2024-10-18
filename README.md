@@ -10,9 +10,9 @@
        
 - 📫 How to reach me:
     - Email: You can reach me via email at hashemalshami.eng@gmail.com
-- 🌍 Pronouns: ...
+<!--- 🌍 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <!---
 hashemSoft/hashemSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
